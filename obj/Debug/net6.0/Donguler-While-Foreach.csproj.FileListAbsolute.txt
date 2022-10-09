@@ -1,0 +1,15 @@
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\bin\Debug\net6.0\Donguler-While-Foreach.exe
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\bin\Debug\net6.0\Donguler-While-Foreach.deps.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\bin\Debug\net6.0\Donguler-While-Foreach.runtimeconfig.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\bin\Debug\net6.0\Donguler-While-Foreach.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\bin\Debug\net6.0\Donguler-While-Foreach.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\obj\Debug\net6.0\Donguler-While-Foreach.csproj.AssemblyReference.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\obj\Debug\net6.0\Donguler-While-Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\obj\Debug\net6.0\Donguler-While-Foreach.AssemblyInfoInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\obj\Debug\net6.0\Donguler-While-Foreach.AssemblyInfo.cs
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\obj\Debug\net6.0\Donguler-While-Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\obj\Debug\net6.0\Donguler-While-Foreach.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\obj\Debug\net6.0\refint\Donguler-While-Foreach.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\obj\Debug\net6.0\Donguler-While-Foreach.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\obj\Debug\net6.0\Donguler-While-Foreach.genruntimeconfig.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Donguler-While-Foreach\obj\Debug\net6.0\ref\Donguler-While-Foreach.dll
